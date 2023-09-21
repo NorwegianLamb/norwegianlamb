@@ -1,4 +1,4 @@
-<h2 align="center">Hey 👋! <br>I'm Flavio Gjoni, a CyberSecurity for Urban Infrastructure Researcher from Italy</h2>
+<h2 align="center">💻 Hey! I'm Flavio Gjoni 💻<br> I'm a CyberSecurity for Urban Infrastructure Researcher and Computer Engineer student</h2>
 
 ###
 
@@ -42,8 +42,12 @@
 ###
 
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=TryHackMe&logo=tryhackme&label=&color=88cc14&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="tryhackme logo"  />
+  <a href="https://www.linkedin.com/in/flavio-gjoni/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+  <a href="https://tryhackme.com/p/NorwegianLamb" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=TryHackMe&logo=tryhackme&label=&color=88cc14&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="tryhackme logo"  />
+  </a>
 </div>
 
 ###
