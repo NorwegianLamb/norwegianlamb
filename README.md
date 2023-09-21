@@ -54,6 +54,4 @@
 
 <br clear="both">
 
-![snake animation](https://github.com/NorwegianLamb/NorwegianLamb/blob/output/github-contribution-grid-snake2.svg)
-
 ###
