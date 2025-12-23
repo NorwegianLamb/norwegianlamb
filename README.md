@@ -48,6 +48,9 @@
   <a href="https://www.researchgate.net/profile/Flavio-Gjoni" target="_blank">
     <img src="https://img.shields.io/static/v1?message=ResearchGate&logo=researchgate&label=&color=white&logoColor=black&labelColor=white&style=for-the-badge" height="35" alt="researchgate logo"  />
   </a>
+  <a href="https://cyberchallenge.it/venues/unipd" target="_blank">
+  <img src="https://img.shields.io/static/v1?message=CyberChallenge&logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAAAwAAAAOCAQAAACxtDVnAAAA6UlEQVQY0yXJvyuEYQAA4Od9vy8%2Fi7Igg0FygzqlDMrm6ga5xWAwWvxNdv8Ag84xMShKFFEoIsJyd1n4vtfgWZ%2BQIJo3YVXHvi%2FnCkKaM2nYvFPXVgzIXOh6zjVkdjR9KNBQqsp0ctG2ZzCmJsh8I4voN2FKMKBUSqKojKhZt4oHTX2ChBAl44aNWBNdOVLqFaVc8qPQVZUcarmzbNRgFEVnDhSqNlU92XPsM3rFjV%2F8GLJhSa9pL1FLpqGOQlvbjB4Vl7l7FxZ1lR4dele35cRtSAE1C3KltmOzvuwK%2F5FU1EyJ3uy6EvgDvX9PDxJlaQcAAAAASUVORK5CYII%3D&label=&color=1a4678&labelColor=1a4678&style=for-the-badge" height="35" alt="cyberchallenge logo" />
+</a>
 </div>
 
 ###
