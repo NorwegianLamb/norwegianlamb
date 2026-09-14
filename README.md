@@ -1,4 +1,4 @@
-<h2 align="center">💻 Hey! I'm Flavio Gjoni 💻<br> I'm a CyberSecurity Researcher and a Mathematics University Student</h2>
+<h2 align="center">💻 Hey! I'm Flavio 💻<br> I'm a CyberSecurity Researcher and a Mathematics University Student</h2>
 
 ###
 
